@@ -1,0 +1,6 @@
+name=input("ENTER YOUR NAME:")
+age=int(input("ENTER YOUR AGE:"))
+collegename=input("ENTER YOUR COLLEGE NAME:")
+department=input("ENTER YOUR DEPARTMENT:")
+mobileno=int(input("ENTER YOUR MOBILE NUMBER:"))
+emailid=input("ENTER YOUR EMAIL ID:")
